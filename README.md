@@ -100,14 +100,3 @@ This project is intended for learning, experimentation, and academic demonstrati
 
 ---
 
-## License
-
-This project is for educational use only.
-
----
-
-If you want, I can also:
-
-* Rename sections to match your university or course format
-* Make it shorter or more detailed
-* Add a proper citation section for the dataset
